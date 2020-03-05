@@ -11,8 +11,4 @@ ByteCompile: true
 Suggests: 
     covr,
     testthat
-<<<<<<< HEAD
-RoxygenNote: 7.0.1
-=======
 RoxygenNote: 7.0.2
->>>>>>> upstream/master
